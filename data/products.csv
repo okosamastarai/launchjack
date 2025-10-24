@@ -1,0 +1,9 @@
+vendor,category,plan,public_url,affiliate_placeholder,notes,core_features
+Cloudways,hosting,DO_1GB,https://www.cloudways.com,[[AFFILIATE_CLOUDWAYS]],Managed WP; DO servers; hourly billing,backups;CDN;staging;scale;support
+Kinsta,hosting,Starter,https://kinsta.com,[[AFFILIATE_KINSTA]],Premium WP; edge cache,CDN;backups;staging;edge cache;support
+GeneratePress,theme,Premium,https://generatepress.com,[[AFFILIATE_GENERATEPRESS]],Lightweight theme,performance;accessibility;blocks
+ShortPixel,plugin,Base,https://shortpixel.com,[[AFFILIATE_SHORTPIXEL]],Image compression WebP/AVIF,lossy;glossy;bulk
+WP Rocket,plugin,Single,https://wp-rocket.me,[[AFFILIATE_WPROCKET]],Cache plugin,page cache;preload;delay js
+RankMath,plugin,Pro,https://rankmath.com,[[AFFILIATE_RANKMATH]],SEO plugin,schema;redirects;on-page
+beehiiv,newsletter,Grow,https://www.beehiiv.com,[[AFFILIATE_BEEHIIV]],Creator newsletter,referrals;posting;analytics
+Umami,analytics,Cloud,https://umami.is,[[AFFILIATE_UMAMI]],Privacy-friendly analytics,events;goals;no cookies

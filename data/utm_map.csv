@@ -1,0 +1,7 @@
+platform,utm_source,utm_medium,utm_campaign
+YouTube,youtube,short,stack_push
+TikTok,tiktok,short,stack_push
+Instagram,instagram,reel,stack_push
+X,x,clip,stack_push
+Threads,threads,clip,stack_push
+Hub,hub,button,stack_select

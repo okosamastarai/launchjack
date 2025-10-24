@@ -1,0 +1,14 @@
+keyword,intent_type,target_url_slug,avatar,angle
+Cloudways vs Kinsta,compare,compare/cloudways-vs-kinsta,photographers,speed & pricing tradeoff
+ShortPixel vs Imagify,compare,compare/shortpixel-vs-imagify,bloggers,image quality vs size
+Best hosting for photographers,best,best/hosting-for-photographers,photographers,portfolio speed
+Cloudways pricing explained,pricing,pricing/cloudways-pricing-explained,creators,clear cost math
+Fix LCP on WordPress with GeneratePress,fix,fix/wp-lcp-generatepress,creators,core web vitals
+WordPress speed stack under €20/mo,best,best/wp-speed-stack-under-20,creators,budget fast
+Kinsta vs Rocket.net,compare,compare/kinsta-vs-rocketnet,agencies,edge cache vs raw speed
+GeneratePress vs Astra,compare,compare/generatepress-vs-astra,creators,performance first
+Best image optimizer for WordPress,best,best/image-optimizer-wordpress,photographers,quality vs size
+RankMath vs Yoast,compare,compare/rankmath-vs-yoast,bloggers,features vs simplicity
+How to reduce CLS on WP,fix,fix/reduce-cls-wordpress,creators,layout shifts
+How to delay JS safely,fix,fix/delay-js-wordpress,creators,render blocking
+Best hosting for coaches,best,best/hosting-for-coaches,coaches,booking pages speed

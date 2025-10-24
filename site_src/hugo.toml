@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "LaunchJack"
+[pagination]
+  pagerSize = 10
