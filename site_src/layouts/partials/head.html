@@ -1,1 +1,13 @@
-<!-- Paste Umami/Plausible here if desired -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ .Title }}</title>
+
+  <!-- Umami Analytics -->
+  <script defer src="https://cloud.umami.is/script.js" data-website-id="492fc855-f95e-4491-a5c2-983f23fb2606"></script>
+
+  {{- partial "head_custom.html" . -}}
+</head>
+<body>
