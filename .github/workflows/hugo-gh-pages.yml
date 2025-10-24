@@ -23,7 +23,7 @@ jobs:
           hugo-version: '0.128.2'
       - name: Build
         working-directory: site_src
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://okosamastarai.github.io/launchjack/"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site_src/public
