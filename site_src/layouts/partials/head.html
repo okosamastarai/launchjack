@@ -6,6 +6,6 @@
 <script defer src="https://cloud.umami.is/script.js"
         data-website-id="492fc855-f95e-4491-a5c2-983f23fb2606"></script>
 
-{{ if partialExists "head_custom.html" }}
+{{ if templates.Exists "partials/head_custom.html" }}
   {{ partial "head_custom.html" . }}
 {{ end }}
