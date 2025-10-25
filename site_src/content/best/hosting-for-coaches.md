@@ -33,3 +33,5 @@ See hub for JSON presets.
 {{< cta "kinsta" "Start Kinsta now" >}}
 
 {{< cta "generatepress" "Start GeneratePress now" >}}
+
+{{< disclosure >}}
