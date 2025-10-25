@@ -1,0 +1,21 @@
+{{/* Usage: {{< cta "cloudways" "Start Cloudways now" >}} */}}
+{{ $id := .Get 0 }}
+{{ $label := .Get 1 | default "Get started" }}
+{{ $m := site.Data.affiliates }}
+{{ $node := cond (isset $m $id) (index $m $id) nil }}
+{{ $href := "" }}
+{{ $utm := "" }}
+
+{{ with $node }}
+  {{ $raw := .url | default "" }}
+  {{ $utm = .utm | default "" }}
+  {{ if gt (len $raw) 0 }}
+    {{ $href = printf "%s%s" $raw $utm }}
+  {{ else }}
+    {{ $href = printf "%s%s" (.fallback | default "#") $utm }}
+  {{ end }}
+{{ end }}
+
+<a class="btn" href="{{ $href }}" target="_blank" rel="nofollow noopener">
+  {{ $label }}
+</a>

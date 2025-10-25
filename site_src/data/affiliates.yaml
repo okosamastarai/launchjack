@@ -1,0 +1,14 @@
+cloudways:
+  url: ""
+  fallback: "https://www.cloudways.com/en/"
+  utm: "?utm_source=launchjack&utm_medium=button&utm_campaign=stack_select"
+
+kinsta:
+  url: ""
+  fallback: "https://kinsta.com/wordpress-hosting/"
+  utm: "?utm_source=launchjack&utm_medium=button&utm_campaign=stack_select"
+
+generatepress:
+  url: ""
+  fallback: "https://generatepress.com/"
+  utm: "?utm_source=launchjack&utm_medium=button&utm_campaign=stack_select"

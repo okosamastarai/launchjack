@@ -28,6 +28,8 @@ See hub for JSON presets.
 
 ## Start here
 
-- [Start Cloudways now]([[AFFILIATE_CLOUDWAYS]]?utm_source=hub&utm_medium=button&utm_campaign=stack_select)
-- [Start Kinsta now]([[AFFILIATE_KINSTA]]?utm_source=hub&utm_medium=button&utm_campaign=stack_select)
-- [Start GeneratePress now]([[AFFILIATE_GENERATEPRESS]]?utm_source=hub&utm_medium=button&utm_campaign=stack_select)
+{{< cta "cloudways" "Start Cloudways now" >}}
+
+{{< cta "kinsta" "Start Kinsta now" >}}
+
+{{< cta "generatepress" "Start GeneratePress now" >}}
